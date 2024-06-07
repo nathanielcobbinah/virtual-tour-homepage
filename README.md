@@ -138,4 +138,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 Nathaniel Cobbinah - nathanielamofah@gmail.com
 
+<<<<<<< HEAD
 <!-- Project Link: https://github.com/nathanielcobbinah/php-form -->
+=======
+<!-- Project Link: https://github.com/nathanielcobbinah/php-form -->
+>>>>>>> 83f071ddb8e761ae55f8ad2c9b0d0bfaf622bffd
