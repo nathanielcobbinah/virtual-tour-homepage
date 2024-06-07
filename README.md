@@ -21,7 +21,7 @@ Welcome to the Virtual Tour Website! This project is a web application built usi
 ├── css/
 │   └── style.css
 │
-├── img/
+├── images/
 │   └── virtual3.png
 │
 ├── js/
