@@ -1,5 +1,7 @@
 body {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(19, 18, 129, 0.6), rgba(0, 0, 0, 0.6)), url('virtual1.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(19, 18, 129, 0.6), rgba(0, 0, 0, 0.6)), url('../images/virtual1.jpg');
+    background-size: cover;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;

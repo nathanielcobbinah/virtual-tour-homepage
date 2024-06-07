@@ -1,6 +1,6 @@
 <header>
     <div class="logo">
-        <img src="virtual3.png" alt="">
+        <img src="images/virtual3.png" alt="">
         <a style="text-decoration: none;" href="index.php">VIRTUAL</a>
     </div>
     <div class="username">
